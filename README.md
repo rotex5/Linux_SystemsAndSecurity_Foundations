@@ -58,3 +58,4 @@ killercoda-scenario/
 - Edit `stepN/verify.sh` to change what counts as completion
 - Edit `index.json` to rename steps or change the Ubuntu image
 - The `background.sh` runs silently at start — add any pre-setup commands there
+Linux_SystemsAndSecurity_Foundations
